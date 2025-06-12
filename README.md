@@ -56,10 +56,6 @@ A smart IoT-based device that reminds users to take their medicine and tracks me
 - 👤 Add user login to web interface
 - 📈 Visual charts for logs
 
-## 👀 Preview
-
-> You can even add screenshots or demo GIFs here later!
-
 ## 🙌 Made With Love
 
 By a student who’s exploring **IoT, coding, and hardware hacking** 💚  
